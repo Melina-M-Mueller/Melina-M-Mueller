@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a PhD student in AI Centre for Doctoral Training in Biomedical Innovation at the University of Edinburgh.
 <!--
 **Melina-M-Mueller/Melina-M-Mueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
